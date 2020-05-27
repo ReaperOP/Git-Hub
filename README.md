@@ -1,2 +1,2 @@
-# Git-Hub
-Shourya
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
